@@ -32,3 +32,4 @@ A clean and responsive Student Registration Form designed using **HTML and CSS**
 
 CSE (AI & ML) Student  
 Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET)
+My name 
